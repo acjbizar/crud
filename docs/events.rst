@@ -44,7 +44,7 @@ automatically.
   It's important that the controller event method is ``public``, since it's called
   from the CakePHP event manager, outside of the Controller scope.
 
-  The added ``_`` prefix is there only to prevent it being executed as an controller
+  The added ``_`` prefix is there only to prevent it being executed as a controller
   action.
 
 Action
